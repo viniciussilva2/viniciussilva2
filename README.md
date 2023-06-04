@@ -9,7 +9,24 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+Conhecimentos:
+• Lógica de Programação
+• Linguagem SQL
+• Banco de Dados
+• Orientação a Objetos
+• GitHub
+• DevOps
+• Metodólogia Ágil
+
+
+• Banco de dados SQL
+• ✓ Mysql   • ✓ Oracle
+
+Linguagem de programação:
+Intermediário – Java.
+
+Linguagens de Marcação:
+Avançado - html, css, js.
  
 <div> 
   <a href="https://www.instagram.com/viniciussilva.02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
