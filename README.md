@@ -27,15 +27,7 @@ Conhecimentos:
 • Metodólogia Ágil
 <br>
 
-• Banco de dados
-• ✓ Mysql   • ✓ Oracle
-<br>
-Linguagem de programação:
-Intermediário – Java.
-<br>
-Linguagens de Marcação:
-Avançado - html, css, js.
-<br>
+
 
 ### Estudando no momento: 📚
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
