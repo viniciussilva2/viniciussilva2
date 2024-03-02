@@ -23,14 +23,9 @@ Conhecimentos:
 <br>
 • Metodólogia Ágil
 <br>
-<br>
 • C#
 <br>
-<br>
 • .NET
-<br>
-
-
 
 ### Estudando no momento: 📚
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
