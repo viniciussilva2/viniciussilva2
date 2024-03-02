@@ -15,9 +15,6 @@ Conhecimentos:
 • Lógica de Programação
 <br>
 • SQL
-<br>
-• Banco de Dados
-<br>
 • Orientação a Objetos
 <br>
 • GitHub
