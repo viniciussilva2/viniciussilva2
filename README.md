@@ -1,5 +1,5 @@
 
-###  Olá, me chamo Vinicius Silva Oliveira 👋  DEV FRONT-END 🖥
+###  Olá, me chamo Vinicius Silva Oliveira 👋 
 
 ### COMPETÊNCIAS: ✅
 <div style="display: inline_block"><br>
