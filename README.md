@@ -23,6 +23,12 @@ Conhecimentos:
 <br>
 • Metodólogia Ágil
 <br>
+<br>
+• C#
+<br>
+<br>
+• .NET
+<br>
 
 
 
