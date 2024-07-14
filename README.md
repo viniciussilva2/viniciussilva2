@@ -13,6 +13,7 @@ Conhecimentos:
 • Lógica de Programação
 <br>
 • SQL
+<br>
 • Orientação a Objetos
 <br>
 • GitHub
