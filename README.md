@@ -69,3 +69,7 @@
 </div>
 
 ###
+
+DISCORD: viniciussilva.02
+LINKEDIN: Vinicius Silva
+GMAIL: vinyoli.vs@gmail.com
