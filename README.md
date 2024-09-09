@@ -17,10 +17,6 @@ Banco de Dados
 IDEs
 Visual Studio Code 
 
-Servidores
-NGINX
-
-
 Entre em Contato
 📧 Email: vinyoli.vs@gmail.com
 💼 LinkedIn: Vinicius Silva
