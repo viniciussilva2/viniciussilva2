@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👦🏼 Vinicius Silva Oliveira<br>📍 Salvador Ba, Brasil<br>📆 23 anos<br>🚀  Desenvolvedor Back-End<br>🎓 Cursando Engenharia de Software</p>
+<p align="left">👦🏼 Vinicius Silva Oliveira<br>📍 Salvador/ba, Brasil<br>📆 23 anos<br>🚀  Desenvolvedor Back-End<br>🎓 Cursando Engenharia de Software</p>
 
 ###
 
