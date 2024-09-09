@@ -65,6 +65,6 @@
 ###
 
 
-<h1>DISCORD: viniciussilva.02</h1> <br>
-<h1>LINKEDIN: Vinicius Silva</h1> <br>
-<h1>GMAIL: vinyoli.vs@gmail.com</h1>
+<h3>DISCORD: viniciussilva.02</h3> <br>
+<h3>LINKEDIN: Vinicius Silva</h3> <br>
+<h3>GMAIL: vinyoli.vs@gmail.com</h3>
