@@ -64,12 +64,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciussilva2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
-###
-
-DISCORD: viniciussilva.02
-LINKEDIN: Vinicius Silva
-GMAIL: vinyoli.vs@gmail.com
+<h1>DISCORD: viniciussilva.02</h1> <br>
+<h1>LINKEDIN: Vinicius Silva</h1> <br>
+<h1>GMAIL: vinyoli.vs@gmail.com</h1>
