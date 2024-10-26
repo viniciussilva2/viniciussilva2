@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor de software com sólida experiência em C# e no framework .NET, atuando na criação de soluções robustas e escaláveis para diferentes tipos de projetos. Minha especialidade inclui o desenvolvimento de aplicações utilizando .NET em suas diversas vertentes, como Web e APIs.
 
-Tenho profundo conhecimento em SQL Server e habilidades na criação de consultas, o que me permite otimizar o desempenho de bancos de dados e assegurar a integridade dos dados. Minha experiência abrange desde o design de bancos de dados até a implementação de consultas complexas, garantindo que as aplicações sejam eficientes e atendam às necessidades do negócio.
+Tenho profundo conhecimento em SQL Server e habilidades na criação de consultas, o que me permite otimizar o desempenho de bancos de dados e assegurar a integridade dos dados. Minha experiência abrange desde o design de bancos de dados até a implementação de consultas , garantindo que as aplicações sejam eficientes e atendam às necessidades do negócio.
 
 Sempre estou em busca de novos desafios que me permitam aplicar e expandir minhas habilidades técnicas, além de contribuir para o sucesso das equipes e projetos com os quais trabalho.
 
