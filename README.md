@@ -23,8 +23,6 @@ public class ViniciusSilvaOliveira
 ```
 
 Sou um desenvolvedor de software com sólida experiência em C# e no framework .NET
-Tenho profundo conhecimento em SQL Server e habilidades na criação de consultas, o que me permite otimizar o desempenho de bancos de dados e assegurar a integridade dos dados. Minha experiência abrange desde o design de bancos de dados até a implementação de consultas , garantindo que as aplicações sejam eficientes e atendam às necessidades do negócio.
-
 Sempre estou em busca de novos desafios que me permitam aplicar e expandir minhas habilidades técnicas, além de contribuir para o sucesso das equipes e projetos com os quais trabalho.
 
 <h3 align="left">🛠 Linguagens e tecnologias:</h3>
