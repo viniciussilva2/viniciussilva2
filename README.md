@@ -6,20 +6,19 @@
 
 ###
 
-<p align="left">👦🏼 Vinicius Silva Oliveira<br>📆 23 anos<br>🚀  Desenvolvedor Back-End<br>🎓 Cursando Engenharia de Software</p>
-
-###
 
 ```csharp
 public class ViniciusSilvaOliveira
 {
+    public int Idade { get; } = 23;
+    public string Profissao { get; } = "Desenvolvedor .NET | ASP.NET | C#";
+    public string Curso { get; } = "Engenharia de Software";
     public bool Comprometimento { get; } = true;
     public bool Responsabilidade { get; } = true;
     public bool PaixaoPorNovosDesafios { get; } = true;
 
     public void Estudar() => Console.WriteLine("Sempre buscando novas tecnologias e aperfeiçoamento.");
     public void TrabalharEmEquipe() => Console.WriteLine("Colaborando para o sucesso de todos.");
-    public void OtimizarConsultas() => Console.WriteLine("Consultas SQL otimizadas e integridade dos dados garantida.");
 }
 ```
 
