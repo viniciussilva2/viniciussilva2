@@ -10,6 +10,19 @@
 
 ###
 
+```csharp
+public class ViniciusSilvaOliveira
+{
+    public bool Comprometimento { get; } = true;
+    public bool Responsabilidade { get; } = true;
+    public bool PaixaoPorNovosDesafios { get; } = true;
+
+    public void Estudar() => Console.WriteLine("Sempre buscando novas tecnologias e aperfeiçoamento.");
+    public void TrabalharEmEquipe() => Console.WriteLine("Colaborando para o sucesso de todos.");
+    public void OtimizarConsultas() => Console.WriteLine("Consultas SQL otimizadas e integridade dos dados garantida.");
+}
+```
+
 Sou um desenvolvedor de software com sólida experiência em C# e no framework .NET
 Tenho profundo conhecimento em SQL Server e habilidades na criação de consultas, o que me permite otimizar o desempenho de bancos de dados e assegurar a integridade dos dados. Minha experiência abrange desde o design de bancos de dados até a implementação de consultas , garantindo que as aplicações sejam eficientes e atendam às necessidades do negócio.
 
