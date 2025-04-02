@@ -15,9 +15,6 @@ public class ViniciusSilvaOliveira
     public string Curso { get; } = "Engenharia de Software";
     public bool Comprometimento { get; } = true;
     public bool Responsabilidade { get; } = true;
-    public bool PaixaoPorNovosDesafios { get; } = true;
-
-    public void Estudar() => Console.WriteLine("Sempre buscando novas tecnologias e aperfeiçoamento.");
     public void TrabalharEmEquipe() => Console.WriteLine("Colaborando para o sucesso de todos.");
 }
 ```
